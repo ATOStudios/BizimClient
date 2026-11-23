@@ -1,6 +1,6 @@
 # Bizim Client
 
-ATOStudios oyunlarını indir, güncelle ve tek hesapla aç.
+Bizim Kasap oyunlarını indir, güncelle ve tek hesapla aç.
 
 **[Bizim Client'i indir](https://github.com/ATOStudios/BizimClient/releases/latest/download/BizimClient-Setup.exe)** · [Son sürüm](https://github.com/ATOStudios/BizimClient/releases/latest)
 
